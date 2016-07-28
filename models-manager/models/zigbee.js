@@ -1,0 +1,1 @@
+../../../zigbee-system-test/models-manager/models/zigbee.js

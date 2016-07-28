@@ -1,0 +1,2 @@
+#!/bin/bash
+for dir in $(find * -type d); do tmp=""; cat ${dir}/*.js >> tmp; mv tmp ${dir}.js; done
