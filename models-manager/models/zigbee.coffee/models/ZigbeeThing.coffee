@@ -1,7 +1,3 @@
-clusterMapping = require('./helpers/RegisteredDevices').clusterMapping;
-deviceMapping = require('./helpers/RegisteredDevices').deviceMapping;
-
-#
 class ZigbeeThing extends TreeItem
     constructor: ( params = {} ) ->
         super()
