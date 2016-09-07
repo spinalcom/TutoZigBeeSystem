@@ -1,9 +1,0 @@
-{
-  "name": "Desk",
-  "main": "desk.html",
-  "window": {
-    "toolbar": true,
-    "width": 800,
-    "height": 600
-  }
-}
