@@ -1,0 +1,4 @@
+{
+ 	"name": "lib_zigbee",
+ 	"dependencies": {"lib_is-sim": "1.0"}
+ }
