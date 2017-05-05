@@ -1,4 +1,0 @@
-{
-            	"name": "lib_cube-assembly",
-            	"dependencies": {"lib_is-sim": "1.0"}
-        }
